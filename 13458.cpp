@@ -1,4 +1,3 @@
-//ÇÊ¼ö 13458¹ø
 #include <iostream>
 #define MAX 1000000
 
