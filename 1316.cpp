@@ -1,4 +1,3 @@
-//ÇÊ¼ö 1316¹ø
 #include <iostream>
 using namespace std;
 
