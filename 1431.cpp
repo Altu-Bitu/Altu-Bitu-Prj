@@ -1,4 +1,3 @@
-//╪╠ец 1431╧Ь
 #include<iostream>
 #include<vector>
 #include<algorithm>
